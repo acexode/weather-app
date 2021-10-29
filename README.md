@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Before Running the project
 
 #### Add your Open weather apikey to the `config.json` file inside the `src` folder
