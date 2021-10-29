@@ -2,11 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## Before Running the project
 
 #### Add your Open weather apikey to the `config.json` file inside the `src` folder
+
+
+## Available Script
+In the project directory, you can run:
+
 
 ### `npm start`
 
